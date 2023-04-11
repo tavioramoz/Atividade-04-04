@@ -30,7 +30,7 @@
             <option value="PF">Policia Federal</option>
             </select>
 
-        <p>CPF: <br> <input id="medio" type="number" name="CPF" required>
+        <p>CPF: <br> <input id="medio" type="number" name="CPF" required></p>
         
         
         <div class="organizacao">
