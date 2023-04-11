@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    }
+    .conteudo{
+    right: 0;
+    top: 0;
+    height: 100%;
+    padding-left: 20px;
+    width: 700px;
+    color: rgb(27, 27, 88);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    #inicial{
+    padding-left: 90px;
+    padding-top: 100px;
+    }
+    #titulo{
+        padding-top: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 35px;
+        text-align: center;
+    }
+    input{
+        background-color: rgb(227, 228, 231);
+        width: 250px;
+        height: 30px;
+        border-radius: 15px;
+    
+    }
+    button{
+        margin-top: 20px;
+        background-color: rgb(27, 27, 88);
+        color: white;
+        border-radius: 15px;
+        height: 35px;
+        width: 150px;
+    }
+    #botao1{
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+    }
+    #cadastro{
+        width: 200px;
+    }
+    #botao2{
+        margin-top: 7px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+    }
+    .space{
+        padding-top: 15px;
+    }
