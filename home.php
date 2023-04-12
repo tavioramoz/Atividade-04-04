@@ -15,7 +15,7 @@
         <p id="titulo"><b>Login do<br> Aluno</b> </p>
         <form action="cadaluno.php" method="post">
         <div class="space">
-        <p> <br> <input type="text" name="CPF" placeholder="CPF" required></p>
+        <p> <br> <input type="text" name="CPF" placeholder="Matrícula ou CPF" required></p>
         <p> <br> <input type="text" name="Senha" placeholder="Senha" required></p>
         </div>
 
